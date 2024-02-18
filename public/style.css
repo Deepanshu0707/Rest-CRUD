@@ -1,0 +1,21 @@
+.main{
+    color: maroon;
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+
+.user{
+    font-style: italic;
+}
+.id{
+    font-style: italic;
+    background-color: lightblue;
+}
+.content{
+    font-style: oblique;
+}
+.head{
+    color:darkred;
+}
